@@ -1,5 +1,7 @@
 ## 🔔 Recent Update:
 * Cheers! We have completed this project.
+  ![cheers!](https://github.com/user-attachments/assets/f4b885ef-df7b-4398-9af4-dfd95a65a02b)
+
 ## 📖 About the Project
 
 This project is for DSD, 2024 Spring. We are aiming to design an intelligent **Treasure Exploration System** with users from multiple platforms. More information is coming soon after further discussion.
